@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1523833060 source:d:\workspace\c_c++\othello\circle.cpp
+	"Circle.h"
+
+1523833060 d:\workspace\c_c++\othello\circle.h
+	<SDL.h>
+
+1523898923 source:d:\workspace\c_c++\othello\line.cpp
+	"Line.h"
+
+1523833060 d:\workspace\c_c++\othello\line.h
+	<SDL.h>
+
+1525958015 source:d:\workspace\c_c++\othello\drawo.cpp
+	"DrawO.h"
+	<iostream>
+
+1525958174 d:\workspace\c_c++\othello\drawo.h
+	<SDL.h>
+
+1531664472 source:d:\workspace\c_c++\othello\main.cpp
+	"Board.h"
+	"AI.h"
+	"time.h"
+	<cstdio>
+
+1525963245 source:d:\workspace\c_c++\othello\grid.cpp
+	"Grid.h"
+	"Circle.h"
+	<iostream>
+
+1525963245 d:\workspace\c_c++\othello\grid.h
+	<SDL.h>
+
+1531667743 source:d:\workspace\c_c++\othello\ai.cpp
+	"AI.h"
+	<cstdlib>
+	<ctime>
+
+1531664923 d:\workspace\c_c++\othello\ai.h
+	"Board.h"
+
+1531664262 d:\workspace\c_c++\othello\board.h
+	<iostream>
+	<vector>
+
+1531664283 source:d:\workspace\c_c++\othello\board.cpp
+	"Board.h"
+
