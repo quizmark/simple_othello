@@ -2,6 +2,7 @@
 2. Simple project at 2nd year in university.
 3. Using SDL2 as CG(Computer Graphic) to demo.
 4. Open App/Othello/CG.exe to play.
+![image](https://user-images.githubusercontent.com/43707410/115869092-97c83800-a467-11eb-92a9-6de64e103b09.png)
 5. There are 2 modes: player vs. player and player vs. bot.
 6. Bot uses Minimax optimized by Alpha-Beta Pruning and a heuristic "trial and error" reward board to calculate the optimal next move.
 7. Rule:
@@ -11,4 +12,4 @@
 ![image](https://user-images.githubusercontent.com/43707410/115866685-381c5d80-a464-11eb-828d-14ad1c4adb09.png)
  - Play until the board is filled, the one has more chesses win the game.
 ![image](https://user-images.githubusercontent.com/43707410/115867617-8716c280-a465-11eb-8ebb-dad22faa6af4.png)
-7. Beware CG code have bugs.
+8. Beware, CG code has bugs.
